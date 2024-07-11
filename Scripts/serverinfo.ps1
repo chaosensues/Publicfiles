@@ -1,4 +1,3 @@
-#Author:  Forrest Fawcett
 #Purpose:  Collect baseline information for Windows Systems
 
 function get-extip {
